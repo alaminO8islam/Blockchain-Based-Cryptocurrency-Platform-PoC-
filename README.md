@@ -355,7 +355,7 @@ git clone https://github.com/mdalvihasanemon/Blockchain-Based-Cryptocurrency-Pla
 This project aims to create a decentralized and inclusive financial ecosystem by combining blockchain security with user-friendly design. It seeks to promote blockchain adoption and enhance financial inclusion globally through responsible practices and ongoing innovation.
 ### License
 
-This project is licensed under the **GPL-30 License**. See the [LICENSE](LICENSE) file for full details.
+This project is licensed under the **GPL-3.0 License**. See the [LICENSE](LICENSE) file for full details.
 
 ---
 
